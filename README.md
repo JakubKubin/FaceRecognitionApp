@@ -2,7 +2,7 @@
 
 An Electron application with React and TypeScript
 
-## Backend for application
+## Back-end for application
 
 https://github.com/JakubKubin/FaceRecognition
 
